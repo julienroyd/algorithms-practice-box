@@ -1,0 +1,1 @@
+Just some exemples and exercises for data structures and algorithms.
